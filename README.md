@@ -10,6 +10,6 @@ Architecture
 ###
 Service used on AWS
 
-- S3 (Simple Storage Service)
+- S3 (Simple Storage Service) : Store and retrive data on the Web
 - Lambda
 - Cloud Watch
