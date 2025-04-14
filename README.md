@@ -5,3 +5,4 @@ I built an ETL pipeline by using the Spotify API on AWS. The pipeline will autom
 
 ##
 Architecture 
+![
