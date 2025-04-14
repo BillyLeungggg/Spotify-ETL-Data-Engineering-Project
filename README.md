@@ -13,4 +13,5 @@ Service used on AWS
 - S3 (Simple Storage Service) : Store and retrieve data on the Web
 - Lambda : Run the code wihout managing servers
 - Cloud Watch : To collect and track metrics, monitor log files and set alarm
-- Glue crawler : 
+- Glue crawler : Automatically crawl the data source, identifies data format and infers schemas to create an AWS Glue Data Catalog.
+- 
