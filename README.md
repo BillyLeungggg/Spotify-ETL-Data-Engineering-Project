@@ -10,7 +10,7 @@ Architecture
 ###
 Service used on AWS
 
-- S3 (Simple Storage Service) :
-Store and retrive data on the Web
-- Lambda
-- Cloud Watch
+- S3 (Simple Storage Service) : Store and retrieve data on the Web
+- Lambda : Run the code wihout managing servers
+- Cloud Watch : To collect and track metrics, monitor log files and set alarm
+- Glue crawler : 
