@@ -14,4 +14,5 @@ Service used on AWS
 - Lambda : Run the code wihout managing servers
 - Cloud Watch : To collect and track metrics, monitor log files and set alarm
 - Glue crawler : Automatically crawl the data source, identifies data format and infers schemas to create an AWS Glue Data Catalog.
-- 
+- Data Catalog : It let you manage and discover the data more eaiser.
+- Amazon Athena : It is a interactive query service to let you analyze the data on Amazon S3 by using SOL command. 
