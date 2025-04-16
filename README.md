@@ -16,3 +16,8 @@ Service used on AWS
 - Glue crawler : Automatically crawl the data source, identifies data format and infers schemas to create an AWS Glue Data Catalog.
 - Data Catalog : It let you manage and discover the data more eaiser.
 - Amazon Athena : It is a interactive query service to let you analyze the data on Amazon S3 by using SOL command. 
+
+###
+Execution Flow
+
+Extract data from API -->  Lamda Trigger --> Run the extraction code --> Store raw data --> Trigger transformation function --> Transform Data and Load --> Query Using Athena
